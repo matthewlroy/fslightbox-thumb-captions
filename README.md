@@ -60,6 +60,7 @@ Include the file ***fslightbox-thumb-captions.min.js*** at the end of the <body>
 
   
 ## Version
+- 1.1.0_Mar-30-2022    -   Bugfix: expand custom captions to entire width of container
 - 1.0.0_Mar-29-2022    -   Initial commit
   
   

@@ -52,6 +52,7 @@
       `fslightbox-flex-centered`,
       `fslightbox-caption-inner`
     );
+    newCaption.style = `max-width:100%!important;`;
     newCaption.textContent =
       fsLightbox.elements.captions[fsLightbox.stageIndexes.current].textContent;
     lastDiv_currentSlide_DOM.parentNode.appendChild(newCaption); //fslightbox-fade-in
