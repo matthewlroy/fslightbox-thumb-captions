@@ -55,8 +55,8 @@ Include the file ***fslightbox-thumb-captions.min.js*** at the end of the <body>
   
 ## Author 
 - Name:  Matthew Roy
-- Email:  matthew@saplink.io
-- Web: https://saplink.io/
+- Email:  mroyucs@outlook.com
+- Web: https://github.com/matthewlroy
 
   
 ## Version
